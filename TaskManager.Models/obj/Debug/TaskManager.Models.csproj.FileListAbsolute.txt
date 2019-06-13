@@ -1,0 +1,12 @@
+C:\Users\шипиловд\source\repos\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.dll
+C:\Users\шипиловд\source\repos\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.pdb
+C:\Users\шипиловд\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.dll
+C:\Users\шипиловд\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.pdb
+C:\Users\шипиловд\source\repos\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csprojAssemblyReference.cache
+E:\Системное\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.dll
+E:\Системное\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.pdb
+E:\Системное\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csprojAssemblyReference.cache
+E:\Системное\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csproj.CoreCompileInputs.cache
+E:\Системное\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.dll
+E:\Системное\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.pdb
